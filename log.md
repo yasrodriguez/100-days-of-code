@@ -14,4 +14,4 @@
 
 **Thoughts:** I wish I could code faster. 
 
-**Link to work:** [SayingHello](https://github.com/yasrodriguez/57-exercises/blob/master/src/SayingHello/SayingHello.java)
+**Link to work:** [CharacterCounter](https://github.com/yasrodriguez/57-exercises/blob/master/src/CharacterCounter/CharacterCounter.java)
