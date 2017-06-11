@@ -2,7 +2,7 @@
 
 ### Day 1: June 8, 2017 
 
-**Today's Progress**: I completed exercise 1 of the 57 exercises book
+**Today's Progress**: I completed exercise 1 of the 57 exercises book.
 
 **Thoughts:** I struggled with an error pushing my code to GitHub, but I figured it out. 
 
@@ -10,7 +10,7 @@
 
 ### Day 2: June 9, 2017 
 
-**Today's Progress**: I completed exercise 2 of the 57 exercises book
+**Today's Progress**: I completed exercise 2 of the 57 exercises book.
 
 **Thoughts:** I wish I could code faster. 
 
@@ -24,3 +24,11 @@
 
 **Link to work:** [QuotePrinter](https://github.com/yasrodriguez/57-exercises/blob/master/src/QuotePrinter/QuotePrinter.java)
                   [DaysAlive](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/lesson2days/DaysAlive.java) 
+
+### Day 4: June 11, 2017 
+
+**Today's Progress**: I completed exercise 4 of the 57 exercises book.
+
+**Thoughts:** That was easy!
+
+**Link to work:** [MadLib](https://github.com/yasrodriguez/57-exercises/blob/master/src/MadLib/MadLib.java)
