@@ -32,3 +32,12 @@
 **Thoughts:** That was easy!
 
 **Link to work:** [MadLib](https://github.com/yasrodriguez/57-exercises/blob/master/src/MadLib/MadLib.java)
+
+### Day 5: June 12, 2017 
+
+**Today's Progress**: I completed exercise 5 of the 57 exercises book.
+
+**Thoughts:** I feel like I'm making progress.
+
+**Link to work:** [SimpleMath](https://github.com/yasrodriguez/57-exercises/blob/master/src/SimpleMath/SimpleMath.java)
+
