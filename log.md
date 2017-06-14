@@ -41,3 +41,10 @@
 
 **Link to work:** [SimpleMath](https://github.com/yasrodriguez/57-exercises/blob/master/src/SimpleMath/SimpleMath.java)
 
+### Day 6: June 13, 2017 
+
+**Today's Progress**: I completed exercise 6 of the 57 exercises book.
+
+**Thoughts:** It felt good to complete this exercise even though I had a busy day. 
+
+**Link to work:** [RetirementCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/RetirementCalculator/RetirementCalculator.java)
