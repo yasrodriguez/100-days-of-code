@@ -48,3 +48,11 @@
 **Thoughts:** It felt good to complete this exercise even though I had a busy day. 
 
 **Link to work:** [RetirementCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/RetirementCalculator/RetirementCalculator.java)
+
+### Day 7: June 14, 2017 
+
+**Today's Progress**: I started exercise 7 - Area Calculator of the 57 exercises book. I added a function to prompt for user input and created a constant for the feet to meter conversion.  
+
+**Thoughts:** Good, these exercises are making me think about how to best organize the code in functions. 
+
+**Link to work:** [AreaCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/AreaCalculator/AreaCalculator.java)
