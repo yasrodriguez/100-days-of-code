@@ -56,3 +56,11 @@
 **Thoughts:** Good, these exercises are making me think about how to best organize the code in functions. 
 
 **Link to work:** [AreaCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/AreaCalculator/AreaCalculator.java)
+
+### Day 8: June 15, 2017 
+
+**Today's Progress**: Continued working on exercise 7 - Area Calculator of the 57 exercises book. I added functions for printing, calculating area, and converting to meters. I also added a constructor and method for unit testing, which is next.
+
+**Thoughts:** 8th day, time goes by fast!
+
+**Link to work:** [AreaCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/AreaCalculator/AreaCalculator.java)
