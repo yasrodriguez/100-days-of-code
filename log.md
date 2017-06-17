@@ -72,3 +72,11 @@
 **Thoughts**: I need to work on my unit testing skills.
 
 **Link to work**: No check ins today. 
+
+### Day 10: June 17, 2017
+
+**Today's Progress**: Finished unit testing the Area Calculator!
+
+**Thoughts**: I ran into a couple of issues with unit testing, which helped me learn new things about static methods and %n so that newline characters work in different environments.
+
+**Link to work**: [AreaCalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/AreaCalculator/AreaCalculatorTest.java)
