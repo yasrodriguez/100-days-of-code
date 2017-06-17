@@ -64,3 +64,11 @@
 **Thoughts:** 8th day, time goes by fast!
 
 **Link to work:** [AreaCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/AreaCalculator/AreaCalculator.java)
+
+### Day 9: June 16, 2017
+
+**Today's Progress**: Continued working/struggling on unit tests for the Area Calculator.
+
+**Thoughts**: I need to work on my unit testing skills.
+
+**Link to work**: No check ins today. 
