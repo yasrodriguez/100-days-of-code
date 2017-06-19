@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12: June 19, 2017
+
+**Today's Progress**: Added unit tests to exercise 8 - Pizza Party. 
+
+**Thoughts**:  I have many questions about unit testing. I want to read more about it and become better at writing unit tests.
+
+**Link to work**: [PizzaPartyTester](https://github.com/yasrodriguez/57-exercises/blob/master/src/PizzaParty/PizzaPartyTester.java)
+
 ### Day 11: June 18, 2017
 
 **Today's Progress**: Made good progress in exercise 8 - Pizza Party. Tomorrow I'll work on unit tests.
