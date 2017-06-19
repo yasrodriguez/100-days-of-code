@@ -80,3 +80,11 @@
 **Thoughts**: I ran into a couple of issues with unit testing, which helped me learn new things about static methods and %n so that newline characters work in different environments.
 
 **Link to work**: [AreaCalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/AreaCalculator/AreaCalculatorTest.java)
+
+### Day 11: June 18, 2017
+
+**Today's Progress**: Made good progress in exercise 8 - Pizza Party. Tomorrow I'll work on unit tests.
+
+**Thoughts**:  I feel like I might have written too much code given the simple exercise...but it was good practice for writing classes, methods, etc.
+
+**Link to work**: [PizzaParty](https://github.com/yasrodriguez/57-exercises/blob/master/src/PizzaParty/PizzaParty.java)
