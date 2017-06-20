@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13: June 20, 2017
+
+**Today's Progress**: Worked on exercise 9 of 57 exercises: Paint Calculator. Got the program working, next will add unit tests. 
+
+**Thoughts**:  It feels good to start the day with some coding.
+
+**Link to work**: [PaintCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/PaintCalculator/PaintCalculator.java)
+
 ### Day 12: June 19, 2017
 
 **Today's Progress**: Added unit tests to exercise 8 - Pizza Party. 
