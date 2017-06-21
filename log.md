@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 14: June 21, 2017
+
+**Today's Progress**: Added unit tests for exercise 9 of 57 exercises: Paint Calculator. Set up my environment to work on the Rectangle Demo project from Intro to Java Programming.
+
+**Thoughts**: 
+
+**Link to work**: [PaintCalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/PaintCalculator/PaintCalculatorTest.java)
+
+
 ### Day 13: June 20, 2017
 
 **Today's Progress**: Worked on exercise 9 of 57 exercises: Paint Calculator. Got the program working, next will add unit tests. 
