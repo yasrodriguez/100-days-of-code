@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: June 22, 2017
+
+**Today's Progress**: Started exercise 10 of 57 exercises: Self Checkout. I've laid out all the methods and have it calculating and printing total items and subtotal. Tomorrow I'll work on calculating tax and total, as well as adding unit tests.
+
+**Thoughts**: 15 straight days of coding!
+
+**Link to work**: [SelfCheckout](https://github.com/yasrodriguez/57-exercises/blob/master/src/SelfCheckout/SelfCheckout.java)
+
 ### Day 14: June 21, 2017
 
 **Today's Progress**: Added unit tests for exercise 9 of 57 exercises: Paint Calculator. Set up my environment to work on the Rectangle Demo project from Intro to Java Programming.
