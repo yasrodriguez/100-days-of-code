@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: June 23, 2017
+
+**Today's Progress**: Continued working on exercise #10 Self Checkout; now it calculates taxes and the total.  I also added a method to separate calculations from income, to facilitate unit testing. 
+
+**Thoughts**:  I want to be able to code unit tests faster. 
+
+**Link to work**: [SelfCheckout](https://github.com/yasrodriguez/57-exercises/blob/master/src/SelfCheckout/SelfCheckout.java)
+
 ### Day 15: June 22, 2017
 
 **Today's Progress**: Started exercise 10 of 57 exercises: Self Checkout. I've laid out all the methods and have it calculating and printing total items and subtotal. Tomorrow I'll work on calculating tax and total, as well as adding unit tests.
