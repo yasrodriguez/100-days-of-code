@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: June 24, 2017
+
+**Today's Progress**: Completed unit tests for exercise #10 Self Checkout.
+
+**Thoughts**:  I'm doing these exercises while on vacation. I'm committed!
+
+**Link to work**: [SelfCheckoutTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/SelfCheckout/SelfCheckoutTest.java)
+
 ### Day 16: June 23, 2017
 
 **Today's Progress**: Continued working on exercise #10 Self Checkout; now it calculates taxes and the total.  I also added a method to separate calculations from income, to facilitate unit testing. 
