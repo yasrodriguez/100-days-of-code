@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19: June 26, 2017
+
+**Today's Progress**: Completed unit tests for the Currency Converter. Did quizzes from chapter 2 of the Udacity Java class.
+
+**Thoughts**:  
+
+**Link to work**: [CurrencyConverter](https://github.com/yasrodriguez/57-exercises/blob/master/src/CurrencyConverter/CurrencyConverterTest.java)
+
 ### Day 18: June 25, 2017
 
 **Today's Progress**: Completed exercise #11 Currency Converter, learned more about BigDecimal. Tomorrow I'll add unit tests.
