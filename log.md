@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: June 25, 2017
+
+**Today's Progress**: Completed exercise #11 Currency Converter, learned more about BigDecimal. Tomorrow I'll add unit tests.
+
+**Thoughts**:  Today I did two hours; time flew by.
+
+**Link to work**: [CurrencyConverter](https://github.com/yasrodriguez/57-exercises/blob/master/src/CurrencyConverter/CurrencyConverter.java)
+
 ### Day 17: June 24, 2017
 
 **Today's Progress**: Completed unit tests for exercise #10 Self Checkout.
