@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 20: June 27, 2017
+
+**Today's Progress**: Started and completed exercise #12 Simple Interest Calculator, along with unit tests.
+
+**Thoughts**:  Today is the first time I've completed the exercise and unit tests the same day. Woohoo!
+
+**Link to work**: [SimpleInterestCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/SimpleInterestCalculator/SimpleInterestCalculator.java)
+[SimpleInterestCalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/SimpleInterestCalculator/SimpleInterestCalculatorTest.java)
+
+
 ### Day 19: June 26, 2017
 
 **Today's Progress**: Completed unit tests for the Currency Converter. Did quizzes from chapter 2 of the Udacity Java class.
