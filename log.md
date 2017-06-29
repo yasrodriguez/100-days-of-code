@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 21: June 28, 2017
+
+**Today's Progress**: Completed several quizzes from Udacity Java class, two of them required coding. 
+
+**Thoughts**: 
+
+**Link to work**: [RectangleTest](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/lesson2rectangles/RectangleTest.java)
+[DrawACrate](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/lesson2rectangles/DrawACrate.java)
+
 ### Day 20: June 27, 2017
 
 **Today's Progress**: Started and completed exercise #12 Simple Interest Calculator, along with unit tests.
@@ -8,7 +17,6 @@
 
 **Link to work**: [SimpleInterestCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/SimpleInterestCalculator/SimpleInterestCalculator.java)
 [SimpleInterestCalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/SimpleInterestCalculator/SimpleInterestCalculatorTest.java)
-
 
 ### Day 19: June 26, 2017
 
