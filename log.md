@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 22: June 29, 2017
+
+**Today's Progress**: Completed the entire problem set for Lesson 2 of Java course in Udacity. 
+
+**Thoughts**:  Glad to see I can complete these problems quickly. Can't wait to get into the more challenging problems.
+
+**Link to work**: [DrawACrate](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/lesson2rectangles/DrawACrate.java) [NameInBox](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/lesson2nameInBox/NameInBox.java) [BlockTower](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/lesson2blockTower/BlockTower.java) 
+
 ### Day 21: June 28, 2017
 
 **Today's Progress**: Completed several quizzes from Udacity Java class, two of them required coding. 
