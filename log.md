@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 23: June 30, 2017
+
+**Today's Progress**: Almost completed exercise #13 Compound Interest Calculator; it's returning the total investment correctly. Tomorrow, I'll finish the printResults method and add unit tests.  
+
+**Thoughts**:  
+
+**Link to work**: [CompoundInterestCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/CompoundInterestCalculator/CompoundInterestCalculator.java)
+
 ### Day 22: June 29, 2017
 
 **Today's Progress**: Completed the entire problem set for Lesson 2 of Java course in Udacity. 
