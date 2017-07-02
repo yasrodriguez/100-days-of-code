@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 24: July 1, 2017
+
+**Today's Progress**: Finished exercise #13 Compound Interest Calculator and added unit tests.
+
+**Thoughts**:  I was so tired today, but one hour goes by quickly. It feels good to meet my commitment to code every day.
+
+**Link to work**: [CompoundInterestCalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/CompoundInterestCalculator/CompoundInterestCalculatorTest.java)
+
 ### Day 23: June 30, 2017
 
 **Today's Progress**: Almost completed exercise #13 Compound Interest Calculator; it's returning the total investment correctly. Tomorrow, I'll finish the printResults method and add unit tests.  
