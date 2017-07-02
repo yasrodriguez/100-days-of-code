@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 25: July 2, 2017
+
+**Today's Progress**: Made good progress on ex #14 Tax Calculator. Tomorrow will finish and add unit tests.
+
+**Thoughts**:  
+
+**Link to work**: [TaxCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex14taxCalculator/TaxCalculator.java)
+
 ### Day 24: July 1, 2017
 
 **Today's Progress**: Finished exercise #13 Compound Interest Calculator and added unit tests.
