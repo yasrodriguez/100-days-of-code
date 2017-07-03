@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 26: July 3, 2017
+
+**Today's Progress**: Completed ex #14 Tax Calculator and added my first unit test. Tomorrow will finish the unit tests.
+
+**Thoughts**:  I learned how to test print statements. Cool!
+
+**Link to work**: [TaxCalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex14taxCalculator/TaxCalculatorTest.java)
+
 ### Day 25: July 2, 2017
 
 **Today's Progress**: Made good progress on ex #14 Tax Calculator. Tomorrow will finish and add unit tests.
