@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 27: July 4, 2017
+
+**Today's Progress**: Completed ex #15 Password Validator. Tomorrow will continue with the next exercise.
+
+**Thoughts**:  
+
+**Link to work**: [PasswordValidator](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex15passwordValidator/PasswordValidator.java)
+
 ### Day 26: July 3, 2017
 
 **Today's Progress**: Completed ex #14 Tax Calculator and added my first unit test. Tomorrow will finish the unit tests.
