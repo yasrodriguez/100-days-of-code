@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 28: July 5, 2017
+
+**Today's Progress**: Completed ex #16 Driving Age Checker. Tomorrow will continue with the next exercise.
+
+**Thoughts**:  Learned about ternary operators.
+
+**Link to work**: [DrivingAgeChecker](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex16DrivingAgeChecker/DrivingAgeChecker.java) [DrivingAgeCheckerTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex16DrivingAgeChecker/DrivingAgeCheckerTest.java)
+
 ### Day 27: July 4, 2017
 
 **Today's Progress**: Completed ex #15 Password Validator. Tomorrow will continue with the next exercise.
