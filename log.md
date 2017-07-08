@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 30: July 7, 2017
+
+**Today's Progress**: Continued working on ex #17 Blood Alcohol Calculator. I found an error in the BAC formula and spent some time figuring it out. Made some changes to make it unit testable. Put together a few unit tests, will add one more tomorrow.
+
+**Thoughts**:  Coding is hardwork but rewarding.
+
+**Link to work**:  [BloodAlcoholCalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex17BloodAlcoholCalculator/BloodAlcoholCalculatorTest.java) [BloodAlcoholCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex17BloodAlcoholCalculator/BloodAlcoholCalculator.java)
+
 ### Day 29: July 6, 2017
 
 **Today's Progress**: Started ex #17 Blood Alcohol Calculator. I have it calculating and printing the BAC. Tomorrow I will validate the results and add unit tests. 
