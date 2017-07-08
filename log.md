@@ -15,6 +15,7 @@
 **Thoughts**:  Struggled a bit on how to best write a function to validate that input was numeric.
 
 **Link to work**: [BloodAlcoholCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex17BloodAlcoholCalculator/BloodAlcoholCalculator.java)
+
 ### Day 28: July 5, 2017
 
 **Today's Progress**: Completed ex #16 Driving Age Checker. Tomorrow will continue with the next exercise.
