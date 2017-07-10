@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 32: July 9, 2017
+
+**Today's Progress**: Spent more time trying to figure out how to create the unit test for the validation method.  I made changes to the class under the test, the test case, etc. with no success, so I reverted back my changes. I've decided to move on, in order not to get stuck, and come back to figure this out at a later time.
+
+**Thoughts**:  
+
+**Link to work**:  
+
+### Day 31: July 8, 2017
+
+**Today's Progress**: Trying to understand how to create a unit test for a validation method that reads input from the console using a scanner and checks to see whether it's numeric.  I did a "proof of concept" to test how to redirect the scanner to use a string provided in the program instead of user input on the console.
+
+**Thoughts**:  
+
+**Link to work**:  [InputRedirect](https://github.com/yasrodriguez/57-exercises/blob/master/src/experiments/InputRedirect.java)
+
 ### Day 30: July 7, 2017
 
 **Today's Progress**: Continued working on ex #17 Blood Alcohol Calculator. I found an error in the BAC formula and spent some time figuring it out. Made some changes to make it unit testable. Put together a few unit tests, will add one more tomorrow.
