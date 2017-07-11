@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 33: July 10, 2017
+
+**Today's Progress**: Started exercise #18 Temperature Converter. I got it working.  I can tell the code needs some cleaning up, so tomorrow I will write the unit tests and then see how I can refactor the code. 
+
+**Thoughts**:  I want to write clean code, but I need to focus on solving the problem first. 
+
+**Link to work**: [TemperatureConverter](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex18temperatureConverter/TemperatureConverter.java)
+
 ### Day 32: July 9, 2017
 
 **Today's Progress**: Spent more time trying to figure out how to create the unit test for the validation method.  I made changes to the class under the test, the test case, etc. with no success, so I reverted back my changes. I've decided to move on, in order not to get stuck, and come back to figure this out at a later time.
