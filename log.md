@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 34: July 11, 2017
+
+**Today's Progress**: Completed unit tests for exercise #18 Temperature Converter.  
+
+**Thoughts**:  I felt so tired, I almost didn't code, but now it feels to good to have done it. 
+
+**Link to work**: [TemperatureConverterTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex18temperatureConverter/TemperatureConverterTest.java)
+
 ### Day 33: July 10, 2017
 
 **Today's Progress**: Started exercise #18 Temperature Converter. I got it working.  I can tell the code needs some cleaning up, so tomorrow I will write the unit tests and then see how I can refactor the code. 
