@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 36: July 13, 2017
+
+**Today's Progress**: Completed the last problem in Problem Set 2 of Intro to Java Programming.
+
+**Thoughts**:  
+
+**Link to work**: [Flower](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet2/Flower.java)
+
 ### Day 35: July 12, 2017
 
 **Today's Progress**: Almost completed all the exercises in Problem Set 2 of Intro to Java Programming.
