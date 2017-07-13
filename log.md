@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 35: July 12, 2017
+
+**Today's Progress**: Almost completed all the exercises in Problem Set 2 of Intro to Java Programming.
+
+**Thoughts**:  
+
+**Link to work**: [CreditCard](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet2/CreditCard.java)   [InchWorm](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet2/InchWorm.java)
+
 ### Day 34: July 11, 2017
 
 **Today's Progress**: Completed unit tests for exercise #18 Temperature Converter.  
