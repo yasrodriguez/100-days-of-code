@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 37: July 14, 2017
+
+**Today's Progress**: Started exercise #19 BMI Calculator. I'm trying to think ahead of time how I will test the input validation function. As part of that I'm learning about Exception Handling.
+
+**Thoughts**:  
+
+**Link to work**: [BMICalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex19bmiCalculator/BMICalculator.java)
+
 ### Day 36: July 13, 2017
 
 **Today's Progress**: Completed the last problem in Problem Set 2 of Intro to Java Programming.
