@@ -2,7 +2,7 @@
 
 ### Day 40: July 17, 2017
 
-**Today's Progress**: Continued excercise #19 BMI Calculator. Today I completed a unit test around the exception that occurs if the user enters non-numeric input. 
+**Today's Progress**: Continued exercise #19 BMI Calculator. Today I completed a unit test around the exception that occurs if the user enters non-numeric input. 
 
 **Thoughts**:  I learned how to unit test an exception and its message. Cool!
 
