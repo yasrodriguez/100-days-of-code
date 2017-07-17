@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 40: July 17, 2017
+
+**Today's Progress**: Continued excercise #19 BMI Calculator. Today I completed a unit test around the exception that occurs if the user enters non-numeric input. 
+
+**Thoughts**:  I learned how to unit test an exception and its message. Cool!
+
+**Link to work**: [BMICalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex19bmiCalculator/BMICalculatorTest.java)
+
+### Day 38 & 39: July 15, 2017 and July 16, 2017
+
+**Today's Progress**: Attended Intro to PHP & MySQL workshop by GDI Detroit.
+
+**Thoughts**:  It was really cool to see all the stuff you can do with PHP and MySQL. I could now create a simple dynamic website!
+
+**Link to work**: Coming soon...I need to clean up my class files and upload them to Git.
+
 ### Day 37: July 14, 2017
 
 **Today's Progress**: Started exercise #19 BMI Calculator. I'm trying to think ahead of time how I will test the input validation function. As part of that I'm learning about Exception Handling.
