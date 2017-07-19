@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 41: July 18, 2017
+
+**Today's Progress**: Completed exercise #19 BMI Calculator. Wrote the calculate and evaluate BMI functions. Added additional unit tests. 
+
+**Thoughts**:  Re-learned how to round doubles using Math.round and multiplying/dividing by a multiple of 10.
+
+**Link to work**: [BMICalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex19bmiCalculator/BMICalculator.java)[BMICalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex19bmiCalculator/BMICalculatorTest.java)
+
 ### Day 40: July 17, 2017
 
 **Today's Progress**: Continued exercise #19 BMI Calculator. Today I completed a unit test around the exception that occurs if the user enters non-numeric input. 
