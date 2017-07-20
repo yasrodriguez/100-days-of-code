@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 42: July 19, 2017
+
+**Today's Progress**: Started exercise #20 Multi State Tax Calculator. Got all the functionality working; did manual tests to make sure results are correct. Tomorrow will add unit tests.
+
+**Thoughts**:  Ran into a few issues with nested if and scanner nextLine method, but was able to figure them out and get the code working.
+
+**Link to work**: [SalesTaxCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex20multiStateSalesTaxCalculator/SalesTaxCalculator.java)
+
 ### Day 41: July 18, 2017
 
 **Today's Progress**: Completed exercise #19 BMI Calculator. Wrote the calculate and evaluate BMI functions. Added additional unit tests. 
