@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 43: July 20, 2017
+
+**Today's Progress**: Added unit tests for exercise #20 Multi State Tax Calculator. Refactored the code to separate UI from business logic.
+
+**Thoughts**:  
+
+**Link to work**: [SalesTaxCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex20multiStateSalesTaxCalculator/SalesTaxCalculator.java) [SalesTaxCalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex20multiStateSalesTaxCalculator/SalesTaxCalculatorTest.java)
+
 ### Day 42: July 19, 2017
 
 **Today's Progress**: Started exercise #20 Multi State Tax Calculator. Got all the functionality working; did manual tests to make sure results are correct. Tomorrow will add unit tests.
