@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 44: July 22, 2017
+
+**Today's Progress**: Refactoring exercise #19 BMI calculator in order to properly handle division by 0. I added a unit test for division by 0 and discovered that the program was not returning an exception! I learned that with doubles, division by 0 returns Infinity instead of an arithmetic exception like what happens with integers. That compounded with the Math.round function I'm using, is returning a huge number (which is actually a numeric overflow). I don't have much code to show for today's work since I spent most of my time investigating why it was returning a huge number when dividing by 0 instead of an exception.
+
+**Thoughts**:  
+
+**Link to work**: [BMICalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex19bmiCalculator/BMICalculatorTest.java)
+
 ### Day 43: July 20, 2017
 
 **Today's Progress**: Added unit tests for exercise #20 Multi State Tax Calculator. Refactored the code to separate UI from business logic.
