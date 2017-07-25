@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 47: July 25, 2017
+
+**Today's Progress**: Made good progress on exercise #21 Month Number to Name Converter. 
+
+**Thoughts**:  Practicing enums and switch statements.
+
+**Link to work**: [MonthNumberToNameConverter](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex21monthNumberToNameConverter/MonthNumberToNameConverter.java) [MonthNumberToNameConverterTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex21monthNumberToNameConverter/MonthNumberToNameConverterTest.java)
+
 ### Day 46: July 24, 2017
 
 **Today's Progress**: Completed refactoring #18 Temperature Converter. I separated user interface from business logic, added an enum for the conversion type, modified unit tests as needed, and added an additional test for a negative temperature. 
