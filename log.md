@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 48: July 26, 2017
+
+**Today's Progress**: Started exercise #22 Number Checker. 
+
+**Thoughts**:  Practicing array lists.
+
+**Link to work**: [NumberChecker](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex22numberChecker/NumberChecker.java) 
+
 ### Day 47: July 25, 2017
 
 **Today's Progress**: Made good progress on exercise #21 Month Number to Name Converter. 
