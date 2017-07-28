@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 50: July 28, 2017
+
+**Today's Progress**: Started exercise #23 Car Troubleshooter program and unit tests.
+
+**Thoughts**: This program deals with decision trees.  My solution is kind of clunky (if/else statements), but it's working so far. I'll refactor later.
+
+**Link to work**: [Car Troubleshooter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex23carTroubleshooter)
+
 ### Day 49: July 27, 2017
 
 **Today's Progress**: Completed exercise #22 Number Checker with unit tests. 
