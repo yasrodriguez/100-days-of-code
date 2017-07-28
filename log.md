@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 49: July 27, 2017
+
+**Today's Progress**: Completed exercise #22 Number Checker with unit tests. 
+
+**Thoughts**: 
+
+**Link to work**: [NumberChecker](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex22numberChecker/NumberChecker.java) 
+[NumberCheckerTest] (https://github.com/yasrodriguez/57-exercises/blob/master/src/ex22numberChecker/NumberCheckerTest.java)
+
 ### Day 48: July 26, 2017
 
 **Today's Progress**: Started exercise #22 Number Checker. 
