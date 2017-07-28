@@ -6,7 +6,7 @@
 
 **Thoughts**: 
 
-**Link to work**: [NumberChecker](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex22numberChecker/NumberChecker.java) [NumberCheckerTest] (https://github.com/yasrodriguez/57-exercises/blob/master/src/ex22numberChecker/NumberCheckerTest.java)
+**Link to work**: [NumberChecker](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex22numberChecker/NumberChecker.java)  [NumberCheckerTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex22numberChecker/NumberCheckerTest.java)
 
 ### Day 48: July 26, 2017
 
