@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 51: July 29, 2017
+
+**Today's Progress**: Completed exercise #23.  Completed exercise #24 Anagram Checker and unit tests.
+
+**Thoughts**: 
+
+**Link to work**: [Anagram Checker Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex24anagramChecker)
+
 ### Day 50: July 28, 2017
 
 **Today's Progress**: Started exercise #23 Car Troubleshooter program and unit tests.
