@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 52: July 30, 2017
+
+**Today's Progress**: Refactored ex #23 Car Troubleshooter. 
+
+**Thoughts**: 
+
+**Link to work**: [Car Troubleshooter Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex23carTroubleshooter)
+
 ### Day 51: July 29, 2017
 
 **Today's Progress**: Completed exercise #23.  Completed exercise #24 Anagram Checker and unit tests.
