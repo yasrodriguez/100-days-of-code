@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 54: August 1, 2017
+
+**Today's Progress**: Completed ex #25 Password Validator with unit tests!
+
+**Thoughts**:
+
+**Link to work**: [Password Validator Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex25passwordValidator)
+
+### Day 53: July 31, 2017
+
+**Today's Progress**: Started ex #25 Password Validator. Researching character sets (ASCII, Unicode), Character class and its methods, conversion of characters to decimal code point, etc.
+
+**Thoughts**: This is fun :)
+
+**Link to work**: No actual code to check in.
+
 ### Day 52: July 30, 2017
 
 **Today's Progress**: Refactored ex #23 Car Troubleshooter. 
