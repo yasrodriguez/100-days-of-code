@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 55: August 3, 2017
+
+**Today's Progress**: Completed ex #26 Credit Card Pay Off Calculator along with unit tests. Learned that Math.log10 is the equivalent of log(i), Math.log uses e as base.
+
+**Thoughts**:
+
+**Link to work**: [Credit Card Pay Off Calculator Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex26creditCardPayOffCalculator)
+
 ### Day 54: August 1, 2017
 
 **Today's Progress**: Completed ex #25 Password Validator with unit tests!
