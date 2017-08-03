@@ -2,7 +2,7 @@
 
 ### Day 55: August 3, 2017
 
-**Today's Progress**: Completed ex #26 Credit Card Pay Off Calculator along with unit tests. Learned that Math.log10 is the equivalent of log(i), Math.log uses e as base.
+**Today's Progress**: Completed ex #26 Credit Card Pay Off Calculator along with unit tests. Learned that Math.log10 (and not Math.log) is the equivalent of log(i).
 
 **Thoughts**:
 
