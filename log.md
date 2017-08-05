@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 56: August 4, 2017
+
+**Today's Progress**: Made good progress on ex #27 Input Validator, including unit tests for all the functions I've added so far. 
+
+**Thoughts**:  This is an interesting challenge.
+
+**Link to work**: [Input Validator Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex27inputValidator)
+
+
 ### Day 55: August 3, 2017
 
 **Today's Progress**: Completed ex #26 Credit Card Pay Off Calculator along with unit tests. Learned that Math.log10 (and not Math.log) is the equivalent of log(i).
