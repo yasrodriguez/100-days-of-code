@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 57: August 5, 2017
+
+**Today's Progress**: Finished ex #27 Input Validator, including unit tests. 
+
+**Thoughts**:  
+
+**Link to work**: [Input Validator Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex27inputValidator)
+
+
 ### Day 56: August 4, 2017
 
 **Today's Progress**: Made good progress on ex #27 Input Validator, including unit tests for all the functions I've added so far. 
