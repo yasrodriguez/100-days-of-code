@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 58: August 6, 2017
+
+**Today's Progress**: Finished ex #28 Adding Numbers, including unit tests. 
+
+**Thoughts**:  
+
+**Link to work**: [Adding Numbers Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex28addingNumbers)
+
 ### Day 57: August 5, 2017
 
 **Today's Progress**: Finished ex #27 Input Validator, including unit tests. 
