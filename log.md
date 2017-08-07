@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 59: August 7, 2017
+
+**Today's Progress**: Completed exercises #29, 30, 31, and 32 with unit tests. For #32 I also wrote a demo class that implements the Guess The Number class.
+
+**Thoughts**:  
+
+**Link to work**: [Years to Double Investment](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex29yearsToDoubleInvestment) [Multiplication Tables Generator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex30multiplicationTablesGenerator) 
+[Heart Rate Calculator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex31heartRateCalculator) 
+[Guess the Number](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex32GuessTheNumber)
+
 ### Day 58: August 6, 2017
 
 **Today's Progress**: Finished ex #28 Adding Numbers, including unit tests. 
