@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 61: August 9, 2017
+
+**Today's Progress**: Refactored ex #30, 31, and 32. Did a challenge for #32 by creating a player that guesses the random number in less than or equal to O(log n). Completed ex #33 Magic 8 Ball. 
+
+**Thoughts**:  
+
+**Link to work**: [Guess the Number Player](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex32GuessTheNumber/GuessTheNumberPlayer.java) [Magic 8 Ball](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex33magic8Ball)
+
+### Day 60: August 8, 2017
+
+**Today's Progress**: Completed homework for class 2 of GDI Intro to JavaScript, including the challenges. 
+
+**Thoughts**:  
+
+**Link to work**: [Calculator](https://github.com/yasrodriguez/intro-to-javascript/blob/master/calculator.js) [Compare Numbers](https://github.com/yasrodriguez/intro-to-javascript/blob/master/compare-numbers.js) [Fortune Teller](https://github.com/yasrodriguez/intro-to-javascript/blob/master/fortune-teller-with-functions.js) [Mix Strings](https://github.com/yasrodriguez/intro-to-javascript/blob/master/mix-strings.js) [Plurals](https://github.com/yasrodriguez/intro-to-javascript/blob/master/plurals.js) [Replace Characters](https://github.com/yasrodriguez/intro-to-javascript/blob/master/replace-character.js)
+
 ### Day 59: August 7, 2017
 
 **Today's Progress**: Completed exercises #29, 30, 31, and 32 with unit tests. For #32 I also wrote a demo class that implements the Guess The Number class.
