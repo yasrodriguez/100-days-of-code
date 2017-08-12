@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 64: August 12, 2017
+
+**Today's Progress**: Did pair programming and tdd with Maclain Wiltzer for several hours on EverCraft kata.  We created a Character with various properties and methods as well as a Character Test.
+
+**Thoughts**:  This is fun!
+
+**Link to work**: [Game Assets](https://github.com/yasrodriguez/EverCraft-Kata/tree/master/java/src/main/java/gameAssets) [Game Assets Tests](https://github.com/yasrodriguez/EverCraft-Kata/tree/master/java/src/tests/java/gameAssets)
+
 ### Day 63: August 11, 2017
 
 **Today's Progress**: Refactored ex #32 Guess the Number and #34 Employee List.
