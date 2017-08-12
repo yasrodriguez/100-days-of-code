@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 63: August 11, 2017
+
+**Today's Progress**: Refactored ex #32 Guess the Number and #34 Employee List.
+
+**Thoughts**:  
+
+**Link to work**: [Guess The Number Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex32GuessTheNumber) [Employee List Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex34employeeList)
+
+### Day 62: August 10, 2017
+
+**Today's Progress**: Completed homework for Class 3 of Intro to JavaScript workshop. Completed exercise #34 Employee List and #35 Pick a Winner with unit tests. Did some GitHub cleanup. 
+
+**Thoughts**:  
+
+**Link to work**: [Employee List Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex34employeeList) [Pick a Winner Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex35pickAWinner)
+
 ### Day 61: August 9, 2017
 
 **Today's Progress**: Refactored ex #30, 31, and 32. Did a challenge for #32 by creating a player that guesses the random number in less than or equal to O(log n). Completed ex #33 Magic 8 Ball. 
