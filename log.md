@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 65: August 13, 2017
+
+**Today's Progress**: Completed exercise #36 Statistics Calculator with unit tests.
+
+**Thoughts**:  
+
+**Link to work**: [Statistics Calculator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex36statisticsCalculator)
+
 ### Day 64: August 12, 2017
 
 **Today's Progress**: Did pair programming and tdd with Maclain Wiltzer for several hours on EverCraft kata.  We created a Character with various properties and methods as well as a Character Test.
