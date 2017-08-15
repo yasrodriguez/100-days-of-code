@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 67: August 15, 2017
+
+**Today's Progress**: Completed exercise #38 Number Filter with unit tests.Finished videos/quizzes for lesson #4 Data Type Fundamentals of Intro to Java Programming course,  did 9 exercises from problem set 3, and started videos/quizzes for lesson #5.1 Decisions.
+
+**Thoughts**:  
+
+**Link to work**: [Number Filter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex38numberFilter)  [Lesson 5](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson5_1)  [Lesson 4](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson4)
+
 ### Day 66: August 14, 2017
 
 **Today's Progress**: Completed exercise #37 Password Generator with unit tests. Did half of lesson #4 Data Type Fundamentals of Intro to Java Programming course. 
