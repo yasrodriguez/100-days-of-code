@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 66: August 14, 2017
+
+**Today's Progress**: Completed exercise #37 Password Generator with unit tests. Did half of lesson #4 Data Type Fundamentals of Intro to Java Programming course. 
+
+**Thoughts**:  
+
+**Link to work**: [Password Generator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex37passwordGenerator)[Lesson 4](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson4)
+
 ### Day 65: August 13, 2017
 
 **Today's Progress**: Completed exercise #36 Statistics Calculator with unit tests.
