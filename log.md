@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 69: August 17, 2017
+
+**Today's Progress**: Finished Ballon problem from set 3 and videos/quizzes for lesson #5.1 Decisions. Completed videos/quizzes for lesson #5.2 Decisions.
+
+**Thoughts**:  
+
+**Link to work**: [Lesson 5-2](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson5_2) [Lesson 5-1](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson5_1) [Ballon](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet3/Balloon.java)
+
+### Day 68: August 16, 2017
+
+**Today's Progress**: Completed exercise #39 Record Sorter with unit tests.Did more exercises from problem set 3, and continued videos/quizzes for lesson #5.1 Decisions.
+
+**Thoughts**:  
+
+**Link to work**: [Record Sorter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex39recordSorter)  [Lesson 5](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson5_1) [Problem Set 3](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet3)
+
 ### Day 67: August 15, 2017
 
 **Today's Progress**: Completed exercise #38 Number Filter with unit tests.Finished videos/quizzes for lesson #4 Data Type Fundamentals of Intro to Java Programming course,  did 9 exercises from problem set 3, and started videos/quizzes for lesson #5.1 Decisions.
