@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 70: August 18, 2017
+
+**Today's Progress**: Completed ex #40 Record Filter with unit tests. Started videos/quizzes for lesson 6.1. Did 8 short problems and 1 long problem from Problem Set 4.
+
+**Thoughts**:  
+
+**Link to work**: [Record Filter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex40recordFilter)  [Lesson 6.1](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson6_1)  [Problem Set 4](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet4)
+
 ### Day 69: August 17, 2017
 
 **Today's Progress**: Finished Ballon problem from set 3 and videos/quizzes for lesson #5.1 Decisions. Completed videos/quizzes for lesson #5.2 Decisions.
