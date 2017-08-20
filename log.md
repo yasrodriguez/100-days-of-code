@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 72: August 20, 2017
+
+**Today's Progress**: Completed ex# 41 Name Sorter with unit tests.
+
+**Thoughts**:  Learned about I/O, specifically how to read/write from/to a file.
+
+**Link to work**: [Name Sorter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex41nameSorter)
+
 ### Day 71: August 19, 2017
 
 **Today's Progress**: Continued videos/quizzes for lesson 6.1. Did 4 short problems from Problem Set 4.
