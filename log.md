@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 71: August 19, 2017
+
+**Today's Progress**: Continued videos/quizzes for lesson 6.1. Did 4 short problems from Problem Set 4.
+
+**Thoughts**:  
+
+**Link to work**: [Lesson 6.1](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson6_1) 
+
 ### Day 70: August 18, 2017
 
 **Today's Progress**: Completed ex #40 Record Filter with unit tests. Started videos/quizzes for lesson 6.1. Did 8 short problems and 1 long problem from Problem Set 4.
