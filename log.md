@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 73: August 21, 2017
+
+**Today's Progress**: Made good progress on ex# 42 CSV parser. 
+
+**Thoughts**:  Learned how to parse a CSV file using the split method.
+
+**Link to work**: [Csv Parser](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex42csvParser)
+
 ### Day 72: August 20, 2017
 
 **Today's Progress**: Completed ex# 41 Name Sorter with unit tests.
