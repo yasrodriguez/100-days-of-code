@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 74: August 22, 2017
+
+**Today's Progress**: Finished ex# 42 CSV parser and unit tests. Completed 16 videos from lesson 6.2 of Intro to Programming Using Java plus 8 short problems.
+
+**Thoughts**:  Learned how to parse a CSV file using the split method.
+
+**Link to work**: [Csv Parser](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex42csvParser)  [Lesson 6.2](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson6_2)  [Problem Set 5](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet5)
+
 ### Day 73: August 21, 2017
 
 **Today's Progress**: Made good progress on ex# 42 CSV parser. 
