@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 76: August 24, 2017
+
+**Today's Progress**: Finished ex# 43 Website Generator with unit tests. Completed remaining videos from lesson 6.2 and remaining short problems from Problem Set 5 of Intro to Programming Using Java.
+
+**Thoughts**:  
+
+**Link to work**: [Website Generator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex43websiteGenerator) [Lesson 6.2](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson6_2)  [Problem Set 5](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet5)
+
+### Day 75: August 23, 2017
+
+**Today's Progress**: Completed two long problems from Problem Set 4. Refactored #42 CSV Parser and started working on ex# 43 Website Generator. 
+
+**Thoughts**:  
+
+**Link to work**: [Problem Set 4](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet4) [Website Generator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex43websiteGenerator) [Csv Parser](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex42csvParser)  
+
 ### Day 74: August 22, 2017
 
 **Today's Progress**: Finished ex# 42 CSV parser and unit tests. Completed 16 videos from lesson 6.2 of Intro to Programming Using Java plus 8 short problems.
@@ -22,7 +38,7 @@
 
 **Thoughts**:  Learned about I/O, specifically how to read/write from/to a file.
 
-**Link to work**: [Name Sorter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex41nameSorter)
+**Link to work**: [Name Sorter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex41nameSorter)n
 
 ### Day 71: August 19, 2017
 
