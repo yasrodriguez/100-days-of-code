@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 78: August 27, 2017
+
+**Today's Progress**: Worked on problem #44 Product Reader.     
+
+**Thoughts**:  Learning about parsing a JSON file.
+
+**Link to work**: [Problem Set 5](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet5) [Problem Set 6](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet6) [Lesson 7.1](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson7_1)
+
+### Day 77: August 25, 2017
+
+**Today's Progress**: Intro to Programming Using Java - Did 2 long problems from Problem Set 5, 16 videos/quizzes from lesson 7.1, and 8 short problems from Problem Set 6.
+
+**Thoughts**:  
+
+**Link to work**: [Problem Set 5](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet5) [Problem Set 6](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet6) [Lesson 7.1](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson7_1)
+
 ### Day 76: August 24, 2017
 
 **Today's Progress**: Finished ex# 43 Website Generator with unit tests. Completed remaining videos from lesson 6.2 and remaining short problems from Problem Set 5 of Intro to Programming Using Java.
