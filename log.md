@@ -6,7 +6,7 @@
 
 **Thoughts**:  Learning about parsing a JSON file.
 
-**Link to work**: [Problem Set 5](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet5) [Problem Set 6](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet6) [Lesson 7.1](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson7_1)
+**Link to work**: [Product Reader](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex44productReader)
 
 ### Day 77: August 25, 2017
 
