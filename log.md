@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 80: August 29, 2017
+
+**Today's Progress**: Finished problem #45 Word Finder.     
+
+**Thoughts**:  
+
+**Link to work**: [Word Finder](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex45wordFinder)
+
 ### Day 79: August 28, 2017
 
 **Today's Progress**: Finished problem #44 Product Search.     
