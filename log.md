@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 79: August 28, 2017
+
+**Today's Progress**: Finished problem #44 Product Search.     
+
+**Thoughts**:  
+
+**Link to work**: [Product Reader](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex44productSearch)
+
 ### Day 78: August 27, 2017
 
 **Today's Progress**: Worked on problem #44 Product Reader.     
