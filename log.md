@@ -2,11 +2,11 @@
 
 ### Day 80: August 29, 2017
 
-**Today's Progress**: Finished problem #45 Word Finder.     
+**Today's Progress**: Finished problem #45 Word Finder.  Did more videos/quizzes from lesson 7.1 and exercises from Problem Set 6 of Udacity Intro to Java. 
 
 **Thoughts**:  
 
-**Link to work**: [Word Finder](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex45wordFinder)
+**Link to work**: [Word Finder](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex45wordFinder) [Problem Set 6](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet6) [Lesson 7.1](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson7_1)
 
 ### Day 79: August 28, 2017
 
