@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 81: August 30, 2017
+
+**Today's Progress**: Did 8 videos/quizzes from lesson 7.2, a long exercises from Problem Set 6, and a couple of short problems from Problem Set 7 of Udacity Intro to Java. Started working on ex #46 Word Counter.  
+
+**Link to work**:  [Problem Set 6](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet6) [Word Counter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex46wordCounter)
+
 ### Day 80: August 29, 2017
 
 **Today's Progress**: Finished problem #45 Word Finder.  Did more videos/quizzes from lesson 7.1 and exercises from Problem Set 6 of Udacity Intro to Java. 
