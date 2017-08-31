@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 82: August 31, 2017
+
+**Today's Progress**: Made good progress on ex #46 Word Counter.  It's parsing the file, counting the words, and sorting them in descending frequency. I learned about tree maps and sorting them by their values (instead of their keys) by converting them to an array list and then sorting with a custom comparator.
+
+**Link to work**:  [Word Counter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex46wordCounter)
+
 ### Day 81: August 30, 2017
 
 **Today's Progress**: Did 8 videos/quizzes from lesson 7.2, a long exercises from Problem Set 6, and a couple of short problems from Problem Set 7 of Udacity Intro to Java. Started working on ex #46 Word Counter.  
