@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 85: September 3, 2017
+
+**Today's Progress**: Completed Question #3 (Polygon) of Udacity Intro to Java Programming - Problem Set 6. 
+
+**Link to work**:  [Polygon](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet6/Polygon.java)  
+
+### Day 84: September 2, 2017
+
+**Today's Progress**: Figured out Question #2 and started Question #3 of Udacity Intro to Java Programming - Problem Set 6. Learned how to use repl.it to run a program with multiple classes (project mode) since I'm on my vacation coding on my Chromebook :)
+
+**Link to work**:  [Trip Plan](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet6/TripPlan.java) [Polygon](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet6/Polygon.java)  
+
+### Day 83: September 1, 2017
+
+**Today's Progress**: Worked on Problem Set 6 - Question #2 of Udacity Intro to Java Programming. Struggled with reverse method.
+
+**Link to work**:  [Trip Plan](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet6/TripPlan.java)
+
 ### Day 82: August 31, 2017
 
 **Today's Progress**: Made good progress on ex #46 Word Counter.  It's parsing the file, counting the words, and sorting them in descending frequency. I learned about tree maps and sorting them by their values (instead of their keys) by converting them to an array list and then sorting with a custom comparator.
