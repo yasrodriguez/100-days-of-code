@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 87: September 6, 2017
+
+**Today's Progress**: Completed ex#47 People In Space; learned about mocking.  Worked on Udacity Intro to Java Programming - completed problems 7-15 and 21 from problem set 7 plus videos/quizzes for lesson 7.3; learned about 2 dimensional arrays. 
+
+**Link to work**:   [People In Space](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex47peopleInSpace)  [Problem Set 7](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet7)  [Lesson 7.3](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson7_3)
+
 ### Day 86: September 5, 2017
 
 **Today's Progress**: Completed ex#46 Word Counter; learned about TreeSets, Comparators, and the Comparable Interface. Completed videos/quizzes for lesson 7.2 of Udacity Intro to Java Programming; learned about partially filled arrays. 
