@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 86: September 5, 2017
+
+**Today's Progress**: Completed ex#46 Word Counter; learned about TreeSets, Comparators, and the Comparable Interface. Completed videos/quizzes for lesson 7.2 of Udacity Intro to Java Programming; learned about partially filled arrays. 
+
+**Link to work**:   [Word Counter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex46wordCounter) [Lesson 7.2](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson7_2)
+
 ### Day 85: September 3, 2017
 
 **Today's Progress**: Completed Question #3 (Polygon) of Udacity Intro to Java Programming - Problem Set 6. 
