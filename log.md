@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 88: September 7, 2017
+
+**Today's Progress**: Made good progress on ex#48 Weather Provider; practiced more JSON parsing.  Worked on Udacity Intro to Java Programming - completed remaining exercises from problem set 7.  Wrote a blog post on what I learned from my first mocking. 
+
+**Link to work**:   [Weather Provider](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex48weatherProvider)  [Problem Set 7](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet7)  [My first mock](http://yasrodriguez.blogspot.com/2017/09/my-first-mock.html)
+
 ### Day 87: September 6, 2017
 
 **Today's Progress**: Completed ex#47 People In Space; learned about mocking.  Worked on Udacity Intro to Java Programming - completed problems 7-15 and 21 from problem set 7 plus videos/quizzes for lesson 7.3; learned about 2 dimensional arrays. 
