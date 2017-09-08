@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 89: September 8, 2017
+
+**Today's Progress**: Completed ex#48 Weather Provider with unit tests; learned how to set up Mockito as a Maven dependency, created a mock and used stubbing.  Worked on Udacity Intro to Java Programming - completed several videos/quizzes on lesson 8.  
+
+**Link to work**:   [Weather Provider](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex48weatherProvider)  [Lesson 8](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson8)
+
 ### Day 88: September 7, 2017
 
 **Today's Progress**: Made good progress on ex#48 Weather Provider; practiced more JSON parsing.  Worked on Udacity Intro to Java Programming - completed remaining exercises from problem set 7.  Wrote a blog post on what I learned from my first mocking. 
