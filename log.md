@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 90: September 9, 2017
+
+**Today's Progress**: Continued working on videos/quizzes of lesson 8 - Udacity Intro to Java Programming.
+
+**Link to work**:   [Lesson 8](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson8)
+
 ### Day 89: September 8, 2017
 
 **Today's Progress**: Completed ex#48 Weather Provider with unit tests; learned how to set up Mockito as a Maven dependency, created a mock and used stubbing.  Worked on Udacity Intro to Java Programming - completed several videos/quizzes on lesson 8.  
