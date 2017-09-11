@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 91: September 10, 2017
+
+**Today's Progress**: Started refactoring #48 Weather Provider.
+
+**Link to work**:   [Weather Provider](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex48weatherProvider) 
+
 ### Day 90: September 9, 2017
 
 **Today's Progress**: Continued working on videos/quizzes of lesson 8 - Udacity Intro to Java Programming.
