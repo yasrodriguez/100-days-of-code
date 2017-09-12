@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 92: September 11, 2017
+
+**Today's Progress**: Completed refactoring #48 Weather Provider. Added validations and related unit tests.
+
+**Link to work**:   [Weather Provider](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex48weatherProvider)
+
 ### Day 91: September 10, 2017
 
 **Today's Progress**: Started refactoring #48 Weather Provider.
