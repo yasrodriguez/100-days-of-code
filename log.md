@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 95: September 14, 2017
+
+**Today's Progress**: Finished problem #49 with unit tests; practiced mocking with Mockito. Continued videos/quizzes from lesson 8 of Udacity Intro to Java; started and almost completed problem set 8. 
+
+**Link to work**: [Flickr Photo Search](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex49flickrPhotoSearch) [Lesson 8](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson8)  [Problem Set 8](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet8) 
+
+### Day 94: September 13, 2017
+
+**Today's Progress**: Started problem #49 Flickr Photo Search. 
+
+**Link to work**:  [Flickr Photo Search](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex49flickrPhotoSearch)
+
+### Day 93: September 12, 2017
+
+**Today's Progress**: Solved the long problem Photography Shop from lesson 8 of Udacity Intro to Java.  Started Grand Circus bootcamp pre-work on Skillo.
+
+**Link to work**:   [Photograpy Shop](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson8/PhotographyShop)
+
 ### Day 92: September 11, 2017
 
 **Today's Progress**: Completed refactoring #48 Weather Provider. Added validations and related unit tests.
