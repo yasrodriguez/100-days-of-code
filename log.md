@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 99: September 19, 2017
+
+**Today's Progress**: Finished videos/exercises from lesson 9 of Udacity Intro to Java.
+
+**Link to work**: [Lesson 9](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson9)
+
 ### Day 98: September 18, 2017
 
 **Today's Progress**: More videos/exercises from lesson 9 of Udacity Intro to Java.
