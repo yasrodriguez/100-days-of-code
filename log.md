@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 98: September 18, 2017
+
+**Today's Progress**: More videos/exercises from lesson 9 of Udacity Intro to Java.
+
+**Link to work**: [Lesson 9](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson9)
+
+### Day 97: September 16, 2017
+
+**Today's Progress**: Ann Arbor Give Camp - Using WordPress to help Children's Literacy Network redo their website.
+
+**Link to work**: https://twitter.com/aagivecamp/status/909490849108590593 https://twitter.com/aagivecamp/status/909491383844708365
+
+### Day 96: September 15, 2017
+
+**Today's Progress**: Videos/exercises from lesson 9 of Udacity Intro to Java.
+
+**Link to work**: [Lesson 9](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson9)
+
 ### Day 95: September 14, 2017
 
 **Today's Progress**: Finished problem #49 with unit tests; practiced mocking with Mockito. Continued videos/quizzes from lesson 8 of Udacity Intro to Java; started and almost completed problem set 8. 
