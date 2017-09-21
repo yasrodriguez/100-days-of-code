@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 100: September 20, 2017
+
+**Today's Progress**: Completed all exercises in problem set 9 and course assessment of Udacity Intro to Java.  Now the only thing left is the final project :)
+
+**Link to work**: [Problem Set 9](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet9)  [Course Assessment](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/courseAssessment)
+
 ### Day 99: September 19, 2017
 
 **Today's Progress**: Finished videos/exercises from lesson 9 of Udacity Intro to Java.
