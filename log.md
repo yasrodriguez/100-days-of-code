@@ -4,19 +4,13 @@
 
 **Today's Progress**: Completed all exercises in problem set 9 and course assessment of Udacity Intro to Java.  Now the only thing left is the final project :)
 
-**Link to work**: [Problem Set 9](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet9)  [Course Assessment](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/courseAssessment)
-
 ### Day 99: September 19, 2017
 
 **Today's Progress**: Finished videos/exercises from lesson 9 of Udacity Intro to Java.
 
-**Link to work**: [Lesson 9](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson9)
-
 ### Day 98: September 18, 2017
 
 **Today's Progress**: More videos/exercises from lesson 9 of Udacity Intro to Java.
-
-**Link to work**: [Lesson 9](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson9)
 
 ### Day 97: September 16, 2017
 
@@ -28,13 +22,11 @@
 
 **Today's Progress**: Videos/exercises from lesson 9 of Udacity Intro to Java.
 
-**Link to work**: [Lesson 9](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson9)
-
 ### Day 95: September 14, 2017
 
 **Today's Progress**: Finished problem #49 with unit tests; practiced mocking with Mockito. Continued videos/quizzes from lesson 8 of Udacity Intro to Java; started and almost completed problem set 8. 
 
-**Link to work**: [Flickr Photo Search](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex49flickrPhotoSearch) [Lesson 8](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson8)  [Problem Set 8](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet8) 
+**Link to work**: [Flickr Photo Search](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex49flickrPhotoSearch)
 
 ### Day 94: September 13, 2017
 
@@ -45,8 +37,6 @@
 ### Day 93: September 12, 2017
 
 **Today's Progress**: Solved the long problem Photography Shop from lesson 8 of Udacity Intro to Java.  Started Grand Circus bootcamp pre-work on Skillo.
-
-**Link to work**:   [Photograpy Shop](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson8/PhotographyShop)
 
 ### Day 92: September 11, 2017
 
@@ -64,49 +54,41 @@
 
 **Today's Progress**: Continued working on videos/quizzes of lesson 8 - Udacity Intro to Java Programming.
 
-**Link to work**:   [Lesson 8](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson8)
-
 ### Day 89: September 8, 2017
 
 **Today's Progress**: Completed ex#48 Weather Provider with unit tests; learned how to set up Mockito as a Maven dependency, created a mock and used stubbing.  Worked on Udacity Intro to Java Programming - completed several videos/quizzes on lesson 8.  
 
-**Link to work**:   [Weather Provider](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex48weatherProvider)  [Lesson 8](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson8)
+**Link to work**:   [Weather Provider](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex48weatherProvider)
 
 ### Day 88: September 7, 2017
 
 **Today's Progress**: Made good progress on ex#48 Weather Provider; practiced more JSON parsing.  Worked on Udacity Intro to Java Programming - completed remaining exercises from problem set 7.  Wrote a blog post on what I learned from my first mocking. 
 
-**Link to work**:   [Weather Provider](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex48weatherProvider)  [Problem Set 7](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet7)  [My first mock](http://yasrodriguez.blogspot.com/2017/09/my-first-mock.html)
+**Link to work**:   [Weather Provider](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex48weatherProvider) [My first mock](http://yasrodriguez.blogspot.com/2017/09/my-first-mock.html)
 
 ### Day 87: September 6, 2017
 
 **Today's Progress**: Completed ex#47 People In Space; learned about mocking.  Worked on Udacity Intro to Java Programming - completed problems 7-15 and 21 from problem set 7 plus videos/quizzes for lesson 7.3; learned about 2 dimensional arrays. 
 
-**Link to work**:   [People In Space](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex47peopleInSpace)  [Problem Set 7](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet7)  [Lesson 7.3](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson7_3)
+**Link to work**:   [People In Space](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex47peopleInSpace)
 
 ### Day 86: September 5, 2017
 
 **Today's Progress**: Completed ex#46 Word Counter; learned about TreeSets, Comparators, and the Comparable Interface. Completed videos/quizzes for lesson 7.2 of Udacity Intro to Java Programming; learned about partially filled arrays. 
 
-**Link to work**:   [Word Counter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex46wordCounter) [Lesson 7.2](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson7_2)
+**Link to work**:   [Word Counter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex46wordCounter)
 
 ### Day 85: September 3, 2017
 
 **Today's Progress**: Completed Question #3 (Polygon) of Udacity Intro to Java Programming - Problem Set 6. 
 
-**Link to work**:  [Polygon](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet6/Polygon.java)  
-
 ### Day 84: September 2, 2017
 
 **Today's Progress**: Figured out Question #2 and started Question #3 of Udacity Intro to Java Programming - Problem Set 6. Learned how to use repl.it to run a program with multiple classes (project mode) since I'm on my vacation coding on my Chromebook :)
 
-**Link to work**:  [Trip Plan](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet6/TripPlan.java) [Polygon](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet6/Polygon.java)  
-
 ### Day 83: September 1, 2017
 
 **Today's Progress**: Worked on Problem Set 6 - Question #2 of Udacity Intro to Java Programming. Struggled with reverse method.
-
-**Link to work**:  [Trip Plan](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet6/TripPlan.java)
 
 ### Day 82: August 31, 2017
 
@@ -118,21 +100,17 @@
 
 **Today's Progress**: Did 8 videos/quizzes from lesson 7.2, a long exercises from Problem Set 6, and a couple of short problems from Problem Set 7 of Udacity Intro to Java. Started working on ex #46 Word Counter.  
 
-**Link to work**:  [Problem Set 6](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet6) [Word Counter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex46wordCounter)
+**Link to work**:  [Word Counter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex46wordCounter)
 
 ### Day 80: August 29, 2017
 
 **Today's Progress**: Finished problem #45 Word Finder.  Did more videos/quizzes from lesson 7.1 and exercises from Problem Set 6 of Udacity Intro to Java. 
 
-**Thoughts**:  
-
-**Link to work**: [Word Finder](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex45wordFinder) [Problem Set 6](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet6) [Lesson 7.1](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson7_1)
+**Link to work**: [Word Finder](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex45wordFinder) 
 
 ### Day 79: August 28, 2017
 
 **Today's Progress**: Finished problem #44 Product Search.     
-
-**Thoughts**:  
 
 **Link to work**: [Product Reader](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex44productSearch)
 
@@ -148,33 +126,23 @@
 
 **Today's Progress**: Intro to Programming Using Java - Did 2 long problems from Problem Set 5, 16 videos/quizzes from lesson 7.1, and 8 short problems from Problem Set 6.
 
-**Thoughts**:  
-
-**Link to work**: [Problem Set 5](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet5) [Problem Set 6](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet6) [Lesson 7.1](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson7_1)
-
 ### Day 76: August 24, 2017
 
 **Today's Progress**: Finished ex# 43 Website Generator with unit tests. Completed remaining videos from lesson 6.2 and remaining short problems from Problem Set 5 of Intro to Programming Using Java.
 
-**Thoughts**:  
-
-**Link to work**: [Website Generator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex43websiteGenerator) [Lesson 6.2](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson6_2)  [Problem Set 5](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet5)
+**Link to work**: [Website Generator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex43websiteGenerator)
 
 ### Day 75: August 23, 2017
 
 **Today's Progress**: Completed two long problems from Problem Set 4. Refactored #42 CSV Parser and started working on ex# 43 Website Generator. 
 
-**Thoughts**:  
-
-**Link to work**: [Problem Set 4](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet4) [Website Generator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex43websiteGenerator) [Csv Parser](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex42csvParser)  
+**Link to work**: [Website Generator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex43websiteGenerator) [Csv Parser](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex42csvParser)  
 
 ### Day 74: August 22, 2017
 
 **Today's Progress**: Finished ex# 42 CSV parser and unit tests. Completed 16 videos from lesson 6.2 of Intro to Programming Using Java plus 8 short problems.
 
-**Thoughts**:  
-
-**Link to work**: [Csv Parser](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex42csvParser)  [Lesson 6.2](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson6_2)  [Problem Set 5](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet5)
+**Link to work**: [Csv Parser](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex42csvParser)
 
 ### Day 73: August 21, 2017
 
@@ -196,55 +164,37 @@
 
 **Today's Progress**: Continued videos/quizzes for lesson 6.1. Did 4 short problems from Problem Set 4.
 
-**Thoughts**:  
-
-**Link to work**: [Lesson 6.1](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson6_1) 
-
 ### Day 70: August 18, 2017
 
 **Today's Progress**: Completed ex #40 Record Filter with unit tests. Started videos/quizzes for lesson 6.1. Did 8 short problems and 1 long problem from Problem Set 4.
 
-**Thoughts**:  
-
-**Link to work**: [Record Filter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex40recordFilter)  [Lesson 6.1](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson6_1)  [Problem Set 4](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet4)
+**Link to work**: [Record Filter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex40recordFilter)
 
 ### Day 69: August 17, 2017
 
 **Today's Progress**: Finished Ballon problem from set 3 and videos/quizzes for lesson #5.1 Decisions. Completed videos/quizzes for lesson #5.2 Decisions.
 
-**Thoughts**:  
-
-**Link to work**: [Lesson 5-2](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson5_2) [Lesson 5-1](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson5_1) [Ballon](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet3/Balloon.java)
-
 ### Day 68: August 16, 2017
 
 **Today's Progress**: Completed exercise #39 Record Sorter with unit tests.Did more exercises from problem set 3, and continued videos/quizzes for lesson #5.1 Decisions.
 
-**Thoughts**:  
-
-**Link to work**: [Record Sorter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex39recordSorter)  [Lesson 5](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson5_1) [Problem Set 3](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/problemSet3)
+**Link to work**: [Record Sorter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex39recordSorter) 
 
 ### Day 67: August 15, 2017
 
 **Today's Progress**: Completed exercise #38 Number Filter with unit tests.Finished videos/quizzes for lesson #4 Data Type Fundamentals of Intro to Java Programming course,  did 9 exercises from problem set 3, and started videos/quizzes for lesson #5.1 Decisions.
 
-**Thoughts**:  
-
-**Link to work**: [Number Filter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex38numberFilter)  [Lesson 5](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson5_1)  [Lesson 4](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson4)
+**Link to work**: [Number Filter](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex38numberFilter) 
 
 ### Day 66: August 14, 2017
 
 **Today's Progress**: Completed exercise #37 Password Generator with unit tests. Did half of lesson #4 Data Type Fundamentals of Intro to Java Programming course. 
 
-**Thoughts**:  
-
-**Link to work**: [Password Generator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex37passwordGenerator)[Lesson 4](https://github.com/yasrodriguez/intro-to-java-programming/tree/master/src/lesson4)
+**Link to work**: [Password Generator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex37passwordGenerator)
 
 ### Day 65: August 13, 2017
 
 **Today's Progress**: Completed exercise #36 Statistics Calculator with unit tests.
-
-**Thoughts**:  
 
 **Link to work**: [Statistics Calculator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex36statisticsCalculator)
 
@@ -260,15 +210,11 @@
 
 **Today's Progress**: Refactored ex #32 Guess the Number and #34 Employee List.
 
-**Thoughts**:  
-
 **Link to work**: [Guess The Number Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex32GuessTheNumber) [Employee List Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex34employeeList)
 
 ### Day 62: August 10, 2017
 
 **Today's Progress**: Completed homework for Class 3 of Intro to JavaScript workshop. Completed exercise #34 Employee List and #35 Pick a Winner with unit tests. Did some GitHub cleanup. 
-
-**Thoughts**:  
 
 **Link to work**: [Employee List Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex34employeeList) [Pick a Winner Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex35pickAWinner)
 
@@ -276,23 +222,15 @@
 
 **Today's Progress**: Refactored ex #30, 31, and 32. Did a challenge for #32 by creating a player that guesses the random number in less than or equal to O(log n). Completed ex #33 Magic 8 Ball. 
 
-**Thoughts**:  
-
 **Link to work**: [Guess the Number Player](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex32GuessTheNumber/GuessTheNumberPlayer.java) [Magic 8 Ball](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex33magic8Ball)
 
 ### Day 60: August 8, 2017
 
 **Today's Progress**: Completed homework for class 2 of GDI Intro to JavaScript, including the challenges. 
 
-**Thoughts**:  
-
-**Link to work**: [Calculator](https://github.com/yasrodriguez/intro-to-javascript/blob/master/calculator.js) [Compare Numbers](https://github.com/yasrodriguez/intro-to-javascript/blob/master/compare-numbers.js) [Fortune Teller](https://github.com/yasrodriguez/intro-to-javascript/blob/master/fortune-teller-with-functions.js) [Mix Strings](https://github.com/yasrodriguez/intro-to-javascript/blob/master/mix-strings.js) [Plurals](https://github.com/yasrodriguez/intro-to-javascript/blob/master/plurals.js) [Replace Characters](https://github.com/yasrodriguez/intro-to-javascript/blob/master/replace-character.js)
-
 ### Day 59: August 7, 2017
 
 **Today's Progress**: Completed exercises #29, 30, 31, and 32 with unit tests. For #32 I also wrote a demo class that implements the Guess The Number class.
-
-**Thoughts**:  
 
 **Link to work**: [Years to Double Investment](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex29yearsToDoubleInvestment) [Multiplication Tables Generator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex30multiplicationTablesGenerator) 
 [Heart Rate Calculator](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex31heartRateCalculator) 
@@ -302,18 +240,13 @@
 
 **Today's Progress**: Finished ex #28 Adding Numbers, including unit tests. 
 
-**Thoughts**:  
-
 **Link to work**: [Adding Numbers Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex28addingNumbers)
 
 ### Day 57: August 5, 2017
 
 **Today's Progress**: Finished ex #27 Input Validator, including unit tests. 
 
-**Thoughts**:  
-
 **Link to work**: [Input Validator Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex27inputValidator)
-
 
 ### Day 56: August 4, 2017
 
@@ -323,20 +256,15 @@
 
 **Link to work**: [Input Validator Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex27inputValidator)
 
-
 ### Day 55: August 3, 2017
 
 **Today's Progress**: Completed ex #26 Credit Card Pay Off Calculator along with unit tests. Learned that Math.log10 (and not Math.log) is the equivalent of log(i).
-
-**Thoughts**:
 
 **Link to work**: [Credit Card Pay Off Calculator Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex26creditCardPayOffCalculator)
 
 ### Day 54: August 1, 2017
 
 **Today's Progress**: Completed ex #25 Password Validator with unit tests!
-
-**Thoughts**:
 
 **Link to work**: [Password Validator Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex25passwordValidator)
 
@@ -346,21 +274,15 @@
 
 **Thoughts**: This is fun :)
 
-**Link to work**: No actual code to check in.
-
 ### Day 52: July 30, 2017
 
 **Today's Progress**: Refactored ex #23 Car Troubleshooter. 
-
-**Thoughts**: 
 
 **Link to work**: [Car Troubleshooter Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex23carTroubleshooter)
 
 ### Day 51: July 29, 2017
 
 **Today's Progress**: Completed exercise #23.  Completed exercise #24 Anagram Checker and unit tests.
-
-**Thoughts**: 
 
 **Link to work**: [Anagram Checker Package](https://github.com/yasrodriguez/57-exercises/tree/master/src/ex24anagramChecker)
 
@@ -375,8 +297,6 @@
 ### Day 49: July 27, 2017
 
 **Today's Progress**: Completed exercise #22 Number Checker with unit tests. 
-
-**Thoughts**: 
 
 **Link to work**: [NumberChecker](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex22numberChecker/NumberChecker.java)  [NumberCheckerTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex22numberChecker/NumberCheckerTest.java)
 
@@ -408,8 +328,6 @@
 
 **Today's Progress**: Completed refactoring #19 BMI calculator - now it validates input to prevent division by 0. Also I separated the user interface from the business logic. 
 
-**Thoughts**:  
-
 **Link to work**: [BMICalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex19bmiCalculator/BMICalculator.java) [BMICalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex19bmiCalculator/BMICalculatorTest.java)
 
 ### Day 44: July 22, 2017
@@ -423,8 +341,6 @@
 ### Day 43: July 20, 2017
 
 **Today's Progress**: Added unit tests for exercise #20 Multi State Tax Calculator. Refactored the code to separate UI from business logic.
-
-**Thoughts**:  
 
 **Link to work**: [SalesTaxCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex20multiStateSalesTaxCalculator/SalesTaxCalculator.java) [SalesTaxCalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex20multiStateSalesTaxCalculator/SalesTaxCalculatorTest.java)
 
@@ -458,13 +374,9 @@
 
 **Thoughts**:  It was really cool to see all the stuff you can do with PHP and MySQL. I could now create a simple dynamic website!
 
-**Link to work**: Coming soon...I need to clean up my class files and upload them to Git.
-
 ### Day 37: July 14, 2017
 
 **Today's Progress**: Started exercise #19 BMI Calculator. I'm trying to think ahead of time how I will test the input validation function. As part of that I'm learning about Exception Handling.
-
-**Thoughts**:  
 
 **Link to work**: [BMICalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex19bmiCalculator/BMICalculator.java)
 
@@ -472,17 +384,9 @@
 
 **Today's Progress**: Completed the last problem in Problem Set 2 of Intro to Java Programming.
 
-**Thoughts**:  
-
-**Link to work**: [Flower](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet2/Flower.java)
-
 ### Day 35: July 12, 2017
 
 **Today's Progress**: Almost completed all the exercises in Problem Set 2 of Intro to Java Programming.
-
-**Thoughts**:  
-
-**Link to work**: [CreditCard](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet2/CreditCard.java)   [InchWorm](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/problemSet2/InchWorm.java)
 
 ### Day 34: July 11, 2017
 
@@ -504,17 +408,9 @@
 
 **Today's Progress**: Spent more time trying to figure out how to create the unit test for the validation method.  I made changes to the class under the test, the test case, etc. with no success, so I reverted back my changes. I've decided to move on, in order not to get stuck, and come back to figure this out at a later time.
 
-**Thoughts**:  
-
-**Link to work**:  
-
 ### Day 31: July 8, 2017
 
 **Today's Progress**: Trying to understand how to create a unit test for a validation method that reads input from the console using a scanner and checks to see whether it's numeric.  I did a "proof of concept" to test how to redirect the scanner to use a string provided in the program instead of user input on the console.
-
-**Thoughts**:  
-
-**Link to work**:  [InputRedirect](https://github.com/yasrodriguez/57-exercises/blob/master/src/experiments/InputRedirect.java)
 
 ### Day 30: July 7, 2017
 
@@ -544,8 +440,6 @@
 
 **Today's Progress**: Completed ex #15 Password Validator. Tomorrow will continue with the next exercise.
 
-**Thoughts**:  
-
 **Link to work**: [PasswordValidator](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex15passwordValidator/PasswordValidator.java)
 
 ### Day 26: July 3, 2017
@@ -559,8 +453,6 @@
 ### Day 25: July 2, 2017
 
 **Today's Progress**: Made good progress on ex #14 Tax Calculator. Tomorrow will finish and add unit tests.
-
-**Thoughts**:  
 
 **Link to work**: [TaxCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/ex14taxCalculator/TaxCalculator.java)
 
@@ -576,8 +468,6 @@
 
 **Today's Progress**: Almost completed exercise #13 Compound Interest Calculator; it's returning the total investment correctly. Tomorrow, I'll finish the printResults method and add unit tests.  
 
-**Thoughts**:  
-
 **Link to work**: [CompoundInterestCalculator](https://github.com/yasrodriguez/57-exercises/blob/master/src/CompoundInterestCalculator/CompoundInterestCalculator.java)
 
 ### Day 22: June 29, 2017
@@ -586,16 +476,9 @@
 
 **Thoughts**:  Glad to see I can complete these problems quickly. Can't wait to get into the more challenging problems.
 
-**Link to work**: [DrawACrate](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/lesson2rectangles/DrawACrate.java) [NameInBox](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/lesson2nameInBox/NameInBox.java) [BlockTower](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/lesson2blockTower/BlockTower.java) 
-
 ### Day 21: June 28, 2017
 
 **Today's Progress**: Completed several quizzes from Udacity Java class, two of them required coding. 
-
-**Thoughts**: 
-
-**Link to work**: [RectangleTest](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/lesson2rectangles/RectangleTest.java)
-[DrawACrate](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/lesson2rectangles/DrawACrate.java)
 
 ### Day 20: June 27, 2017
 
@@ -609,8 +492,6 @@
 ### Day 19: June 26, 2017
 
 **Today's Progress**: Completed unit tests for the Currency Converter. Did quizzes from chapter 2 of the Udacity Java class.
-
-**Thoughts**:  
 
 **Link to work**: [CurrencyConverter](https://github.com/yasrodriguez/57-exercises/blob/master/src/CurrencyConverter/CurrencyConverterTest.java)
 
@@ -649,8 +530,6 @@
 ### Day 14: June 21, 2017
 
 **Today's Progress**: Added unit tests for exercise 9 of 57 exercises: Paint Calculator. Set up my environment to work on the Rectangle Demo project from Intro to Java Programming.
-
-**Thoughts**: 
 
 **Link to work**: [PaintCalculatorTest](https://github.com/yasrodriguez/57-exercises/blob/master/src/PaintCalculator/PaintCalculatorTest.java)
 
@@ -742,7 +621,6 @@
 **Thoughts:** It feels good to code.
 
 **Link to work:** [QuotePrinter](https://github.com/yasrodriguez/57-exercises/blob/master/src/QuotePrinter/QuotePrinter.java)
-                  [DaysAlive](https://github.com/yasrodriguez/intro-to-java-programming/blob/master/src/lesson2days/DaysAlive.java)
                   
  ### Day 2: June 9, 2017 
 
